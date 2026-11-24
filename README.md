@@ -1,4 +1,4 @@
-# [Christmas Conundrum]
+# Christmas Conundrum
 
 > WEB-115 Final Project: an interactive, browser-based story built with HTML, CSS and JavaScript.
 
